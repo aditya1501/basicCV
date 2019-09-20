@@ -1,0 +1,4 @@
+This program reads an image using imread() from the images directory, 
+converts it to gray scale using cvtColor() and displays it using 
+imshow(). It also saves the image to the disk using the 
+imwrite() function
